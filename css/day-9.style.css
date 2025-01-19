@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+.box{
+    height: 450px;
+    background-color: red;
+    background-image: url(../images.jpeg);
+    background-size: cover;
+}
