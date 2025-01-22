@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.header{
+    height: 380px;
+    background-color: red;
+    background-image: url(../images.jpeg);
+    background-size: cover;
+    padding: 200px 300px;
+}
