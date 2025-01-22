@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.header{
+    height: 500px;
+    background-color: red;
+    background-image: url(../imagecss.jpg);
+    background-size: cover;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.navbar{
+    background-color: red;
+    padding-left: 0;
+}
+.navbar__list{
+    list-style-type: none;
+    display: inline;
+}
